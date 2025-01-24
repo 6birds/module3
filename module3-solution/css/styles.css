@@ -106,7 +106,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: #1e2528;
   color: #FFFFFF;
 }
 
@@ -140,6 +140,8 @@ hr {
   font-size: 1.2em;
 }
 
-.navbar-collapse {
-	background-color: #000 ;
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	background-color: #FFFFFF;
+	border: 1px solid #1e2528;
+	color: #1e2528;
 	}
