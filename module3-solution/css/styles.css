@@ -10,7 +10,6 @@ h1 {
 }
 
 body {
-	background-image: url("background.jpg");
 	background-color: #FEF5CA;
 
 }
@@ -25,8 +24,8 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
-	/* margin-bottom: 10px;
-	padding: 10px; */
+	margin-bottom: 5px;
+	padding: 5px; */
 }
 
 section {
@@ -139,3 +138,11 @@ hr {
 .navbar-collapse {
 	background-color: #FFFFFF;
 	}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	background-color: #1e2528;
+	}
+
+.navbar	{
+	border-radius: 0px;
+}
