@@ -111,7 +111,7 @@ section {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #FFFFFF;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -136,12 +136,11 @@ hr {
 }
 
 .item {
-  color: white;
-  font-size: 1.2em;
+	color: #1e2528;
+  	font-size: 1.2em;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
 	background-color: #FFFFFF;
 	border: 1px solid #1e2528;
-	color: #1e2528;
 	}
