@@ -139,3 +139,7 @@ hr {
   color: white;
   font-size: 1.2em;
 }
+
+.navbar-collapse {
+	background-color: #000 ;
+	}
